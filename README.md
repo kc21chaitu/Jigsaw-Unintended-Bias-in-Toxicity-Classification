@@ -2,7 +2,7 @@
 
 [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
 
-Top 24% of the Jigsaw Unintended Bias in Toxicity Classification in Kaggle.
+Finally, I stood in top 24% of the Jigsaw Unintended Bias in Toxicity Classification in Kaggle.
 
 
 <img src="/img/rank.png">
